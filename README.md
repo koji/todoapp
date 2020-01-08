@@ -1,1 +1,5 @@
 # todoapp
+
+```
+$ yarn && yarn start
+```
